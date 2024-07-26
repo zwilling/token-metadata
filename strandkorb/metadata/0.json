@@ -1,22 +1,17 @@
 {
-  "name": "Nautic Strandkorb ",
+  "name": "Nautic Strandkorb",
   "description": "Strandkorb Miete am Sierksdorfer Strand bei Nautic. Represäntiert als Blockchain NFT.",
   "image": "https://raw.githubusercontent.com/zwilling/token-metadata/main/strandkorb/images/strandkorb_cut.jpeg",
   "decimals": 0,
   "external_url": "http://www.nautic-hotel.de/",
   "attributes": [
     {
-      "trait_type": "Venue",
+      "trait_type": "Place",
       "value": "Sierksdorfer Strand, Deutschland"
     },
     {
       "trait_type": "Event Name",
-      "value": "Nautic Strandkorb Miete"
-    },
-    {
-      "display_type": "date",
-      "trait_type": "Date",
-      "value": 1731351600
+      "value": "Nautic Beach Chair Rental"
     }
   ]
 }

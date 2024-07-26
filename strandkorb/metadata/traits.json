@@ -1,0 +1,32 @@
+{
+  "traits": {
+    "chairID": {
+      "displayName": "BeachChair Number",
+      "dataType": {
+        "type": "decimal",
+        "decimals": 0,
+        "valueMappings": {
+          "0x0000000000000000000000000000000000000000000000000000000000000000": "Undisclosed"
+        }
+      }
+    },
+    "startTime": {
+      "displayName": "Start Time",
+      "dataType": {
+        "type": "epochSeconds",
+        "valueMappings": {
+          "0x0000000000000000000000000000000000000000000000000000000000000000": "Undisclosed"
+        }
+      }
+    },
+    "endTime": {
+      "displayName": "Start Time",
+      "dataType": {
+        "type": "epochSeconds",
+        "valueMappings": {
+          "0x0000000000000000000000000000000000000000000000000000000000000000": "Undisclosed"
+        }
+      }
+    }
+  }
+}
